@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrhemikumar
+- 👋 Hi, I’m @mrhemihemith
 - 👀 I’m interested in Machine Learning , Artificial Intelligence , Web Scraping
 - 🌱 I’m currently learning Django Web Development and PyTorch
 - 💞️ I’m looking to collaborate on any project that helps me enhance my skills and intrests.
